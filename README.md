@@ -2,11 +2,10 @@
   <a href="https://github.com/daniiii5">
    <img src="https://github-widgetbox.vercel.app/api/profile?username=daniiii5&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox">
   </a>
-  \n
+  <br>
   <a href="https://www.linkedin.com/in/qdd5/">
    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" alt="Linkedin">
   </a>
-  \n
   <a href="https://www.linkedin.com/in/qdd5/">
    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/BuyMeACoffee/buymeacoffee2.svg" alt="Buy Me A Coffee">
   </a>
