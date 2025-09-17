@@ -6,12 +6,11 @@
   <a href="https://www.linkedin.com/in/qdd5/">
    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" alt="Linkedin">
   </a>
-  <a href="https://www.linkedin.com/in/qdd5/">
+  <a href="https://buymeacoffee.com/t258fhnnhwo">
    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/BuyMeACoffee/buymeacoffee2.svg" alt="Buy Me A Coffee">
   </a>
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?-->
 
-![BuymeACoffee]()
 
 ### Spoken Languages 
 * English
