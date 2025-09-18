@@ -11,11 +11,6 @@
   </a>
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?-->
 
-
-### Spoken Languages 
-* English
-* Spanish
-
 ### Languages and Tools
 ![C++](https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++2.svg)
 ![HTML](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg)
@@ -44,11 +39,3 @@
 ![Photoshop](https://ziadoua.github.io/m3-Markdown-Badges/badges/Photoshop/photoshop2.svg)
 ![Premiere](https://ziadoua.github.io/m3-Markdown-Badges/badges/Premiere/premiere2.svg)
 ![Postman](https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman2.svg)
-
-<div align="center">  
-  <img width="49%" height="80px" src="https://github-readme-stats.vercel.app/api?username=daniiii5&show_icons=true&count_private=true&hide_border=true&title_color=8A0FE8&icon_color=8A0FE8&text_color=8A0FE8&bg_color=0d1117" alt="daniiii5's github stats" /> 
-  <img width="41%" height="80px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniiii5&layout=compact&hide_border=true&title_color=8A0FE8&text_color=8A0FE8&bg_color=0d1117" />
-  <img width="49%" height="80px" src="https://github-contributor-stats.vercel.app/api?username=daniiii5&limit=5&theme=dark&combine_all_yearly_contributions=true&title_color=8A0FE8&text_color=8A0FE8&bg_color=0d1117&hide_border=true">
-</div>
-
-
