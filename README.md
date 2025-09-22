@@ -12,16 +12,20 @@
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?-->
 
 ### Languages and Tools
-![C++](https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++2.svg)
 ![HTML](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg)
 ![JavaScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg)
 ![JSON](https://ziadoua.github.io/m3-Markdown-Badges/badges/JSON/json2.svg)
 ![Node.JS](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg)
-![Python](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg)
 ![Markdown](https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown2.svg)
+![Python](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg)
 <!--### Developer's Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&titlecolor=56BBB3&textcolor=56BBB3&bg&color=0d1117)
 -->
+
+### In Progress
+![C++](https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++2.svg)
+![Java](https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg)
+![MySQL](https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql2.svg)
 ### Software Used
 ![VSCode](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg)
 ![Discord](https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord2.svg)
