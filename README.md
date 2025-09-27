@@ -23,9 +23,14 @@
 -->
 
 ### In Progress
+![INTELLIJ](https://ziadoua.github.io/m3-Markdown-Badges/badges/IDEA/idea2.svg)
 ![C++](https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++2.svg)
 ![Java](https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg)
 ![MySQL](https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql2.svg)
+![AWS](https://ziadoua.github.io/m3-Markdown-Badges/badges/AWS/aws2.svg)
+![CSS](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg)
+![HTML5](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html3.svg)
+
 ### Software Used
 ![VSCode](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg)
 ![Discord](https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord2.svg)
