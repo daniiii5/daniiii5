@@ -29,7 +29,6 @@
 ![MySQL](https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql2.svg)
 ![AWS](https://ziadoua.github.io/m3-Markdown-Badges/badges/AWS/aws2.svg)
 ![CSS](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg)
-![HTML5](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html3.svg)
 
 ### Software Used
 ![VSCode](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg)
