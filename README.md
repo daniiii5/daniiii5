@@ -18,7 +18,7 @@
 ![Node.JS](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg)
 ![Markdown](https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown2.svg)
 ![Python](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg)
-<!--### Developer's Quote A
+<!--### Developer's Quote AB
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&titlecolor=56BBB3&textcolor=56BBB3&bg&color=0d1117)
 -->
 
