@@ -49,4 +49,4 @@
 ![Postman](https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman2.svg)
 
 ### Certifications
-![AWS Cloud Partitioner](https://images.credly.com/images/30816e43-2550-4e1c-be22-3f03c5573bb9/blob)
+<img src="https://images.credly.com/images/30816e43-2550-4e1c-be22-3f03c5573bb9/blob" alt="AWS Cloud Partitioner" width="200"/>
