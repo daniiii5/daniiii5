@@ -9,6 +9,9 @@
   <a href="https://buymeacoffee.com/qdd5">
    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/BuyMeACoffee/buymeacoffee2.svg" alt="Buy Me A Coffee">
   </a>
+  <a href="mailto:daniqdd5@gmail.com">
+   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail2.svg" alt="Mail">
+  </a>
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?-->
 
 ### Languages and Tools
@@ -18,6 +21,7 @@
 ![Node.JS](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg)
 ![Markdown](https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown2.svg)
 ![Python](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg)
+![Docker](https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker2.svg)
 <!--### Developer's Quote AB
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&titlecolor=56BBB3&textcolor=56BBB3&bg&color=0d1117)
 -->
@@ -29,6 +33,7 @@
 ![MySQL](https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql2.svg)
 ![AWS](https://ziadoua.github.io/m3-Markdown-Badges/badges/AWS/aws2.svg)
 ![CSS](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg)
+![NGINX](https://ziadoua.github.io/m3-Markdown-Badges/badges/NGINX/nginx2.svg)
 
 ### Software Used
 ![VSCode](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg)
@@ -47,6 +52,8 @@
 ![Photoshop](https://ziadoua.github.io/m3-Markdown-Badges/badges/Photoshop/photoshop2.svg)
 ![Premiere](https://ziadoua.github.io/m3-Markdown-Badges/badges/Premiere/premiere2.svg)
 ![Postman](https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman2.svg)
+![PyCharm](https://ziadoua.github.io/m3-Markdown-Badges/badges/PyCharm/pycharm2.svg)
+![IDEA](https://ziadoua.github.io/m3-Markdown-Badges/badges/IDEA/idea2.svg)
 
 ### Certifications
 <img src="https://images.credly.com/images/30816e43-2550-4e1c-be22-3f03c5573bb9/blob" alt="AWS Cloud Partitioner" width="150"/>
