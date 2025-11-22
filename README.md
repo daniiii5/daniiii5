@@ -12,7 +12,10 @@
   <a href="mailto:daniqdd5@gmail.com">
    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail2.svg" alt="Mail">
   </a>
+  https://octostats.mondov.dev/widget?username=daniiii5&type=<widget-type>&timeframe=<timeframe>&width=<width>
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?-->
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=daniiii5?layout=compact)](https://github.com/daniiii5/daniiii5)
 
 ### Languages and Tools
 ![HTML](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg)
