@@ -1,21 +1,12 @@
-<!--![logo](bannerss.png)-->
+
   <a href="https://github.com/daniiii5">
    <img src="https://github-widgetbox.vercel.app/api/profile?username=daniiii5&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox">
   </a>
   <br>
-  <a href="https://www.linkedin.com/in/qdd5/">
-   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" alt="Linkedin">
-  </a>
-  <a href="https://buymeacoffee.com/qdd5">
-   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/BuyMeACoffee/buymeacoffee2.svg" alt="Buy Me A Coffee">
-  </a>
-  <a href="mailto:daniqdd5@gmail.com">
-   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail2.svg" alt="Mail">
-  </a>
-  https://octostats.mondov.dev/widget?username=daniiii5&type=<widget-type>&timeframe=<timeframe>&width=<width>
-<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?-->
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=daniiii5?layout=compact)](https://github.com/daniiii5/daniiii5)
+  
+[![Linkedin](https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg)](https://www.linkedin.com/in/qdd5/)
+[![Buy Me A Coffee](https://ziadoua.github.io/m3-Markdown-Badges/badges/BuyMeACoffee/buymeacoffee2.svg)](https://buymeacoffee.com/qdd5)
+[![Mail](https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail2.svg)](mailto:daniqdd5@gmail.com)
 
 ### Languages and Tools
 ![HTML](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg)
