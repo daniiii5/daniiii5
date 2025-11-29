@@ -3,8 +3,7 @@
    <img src="https://github-widgetbox.vercel.app/api/profile?username=daniiii5&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox">
   </a>
   <br>
-  
-[![Buy Me A Coffee](https://ziadoua.github.io/m3-Markdown-Badges/badges/BuyMeACoffee/buymeacoffee2.svg)](https://buymeacoffee.com/qdd5)
+
 [![Mail](https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail2.svg)](mailto:daniqdd5@gmail.com)
 
 ### Languages and Tools
