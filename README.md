@@ -4,7 +4,6 @@
   </a>
   <br>
   
-[![Linkedin](https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg)](https://www.linkedin.com/in/qdd5/)
 [![Buy Me A Coffee](https://ziadoua.github.io/m3-Markdown-Badges/badges/BuyMeACoffee/buymeacoffee2.svg)](https://buymeacoffee.com/qdd5)
 [![Mail](https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail2.svg)](mailto:daniqdd5@gmail.com)
 
