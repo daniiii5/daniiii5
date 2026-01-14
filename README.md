@@ -47,6 +47,9 @@
 ![PyCharm](https://ziadoua.github.io/m3-Markdown-Badges/badges/PyCharm/pycharm2.svg)
 ![IDEA](https://ziadoua.github.io/m3-Markdown-Badges/badges/IDEA/idea2.svg)
 
+
 ### Certifications
-<img style="display: flex" src="https://images.credly.com/images/30816e43-2550-4e1c-be22-3f03c5573bb9/blob" alt="AWS Cloud Partitioner" width="150"/>
-<img style="display: flex" src="https://images.credly.com/images/15fa08e6-ca73-4fa3-94ed-c36f7f157313/blob" alt="AWS AI Partitioner" width="150"/>
+<p align="left">
+  <img src="https://images.credly.com/images/30816e43-2550-4e1c-be22-3f03c5573bb9/blob" alt="AWS Cloud Partitioner" width="150"/>
+  <img src="https://images.credly.com/images/15fa08e6-ca73-4fa3-94ed-c36f7f157313/blob" alt="AWS AI Partitioner" width="150"/>
+</p>
