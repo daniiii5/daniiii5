@@ -52,4 +52,5 @@
 <p align="left">
   <img src="https://images.credly.com/images/30816e43-2550-4e1c-be22-3f03c5573bb9/blob" alt="AWS Cloud Partitioner" width="150"/>
   <img src="https://images.credly.com/images/15fa08e6-ca73-4fa3-94ed-c36f7f157313/blob" alt="AWS AI Partitioner" width="150"/>
+  <img src="https://images.credly.com/images/320bfb8f-e722-41b9-a70a-c3fb07402981/blob" alt="AWS Solutions Architect" width="150"/>
 </p>
