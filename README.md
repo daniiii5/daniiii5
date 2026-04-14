@@ -29,18 +29,12 @@
 
 ### Software Used
 ![VSCode](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg)
-![Discord](https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord2.svg)
 ![Heroku](https://ziadoua.github.io/m3-Markdown-Badges/badges/Heroku/heroku2.svg)
 ![Linux](https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg)
 ![Ubuntu](https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu2.svg)
 ![macOS](https://ziadoua.github.io/m3-Markdown-Badges/badges/macOS/macos2.svg)
 ![Windows11](https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows11/windows112.svg)
 ![Windows10](https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows10/windows102.svg)
-![Windows7](https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows7/windows72.svg)
-![WindowsVista](https://ziadoua.github.io/m3-Markdown-Badges/badges/WindowsVista/windowsvista2.svg)
-![WindowsXP](https://ziadoua.github.io/m3-Markdown-Badges/badges/WindowsXP/windowsxp2.svg)
-![Notion](https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion2.svg)
-![Obsidian](https://ziadoua.github.io/m3-Markdown-Badges/badges/Obsidian/obsidian2.svg)
 ![Photoshop](https://ziadoua.github.io/m3-Markdown-Badges/badges/Photoshop/photoshop2.svg)
 ![Premiere](https://ziadoua.github.io/m3-Markdown-Badges/badges/Premiere/premiere2.svg)
 ![Postman](https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman2.svg)
